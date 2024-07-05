@@ -14,6 +14,7 @@
 		47B74B942C38841C00801C23 /* ParkCarTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47B74B932C38841C00801C23 /* ParkCarTests.swift */; };
 		47B74B9E2C38841C00801C23 /* ParkCarUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47B74B9D2C38841C00801C23 /* ParkCarUITests.swift */; };
 		47B74BA02C38841C00801C23 /* ParkCarUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47B74B9F2C38841C00801C23 /* ParkCarUITestsLaunchTests.swift */; };
+		47B74BAD2C388FBE00801C23 /* Readme.md in Resources */ = {isa = PBXBuildFile; fileRef = 47B74BAC2C388FBE00801C23 /* Readme.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		47B74B992C38841C00801C23 /* ParkCarUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ParkCarUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		47B74B9D2C38841C00801C23 /* ParkCarUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParkCarUITests.swift; sourceTree = "<group>"; };
 		47B74B9F2C38841C00801C23 /* ParkCarUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParkCarUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		47B74BAC2C388FBE00801C23 /* Readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 		47B74B762C38841900801C23 = {
 			isa = PBXGroup;
 			children = (
+				47B74BAC2C388FBE00801C23 /* Readme.md */,
 				47B74B812C38841900801C23 /* ParkCar */,
 				47B74B922C38841C00801C23 /* ParkCarTests */,
 				47B74B9C2C38841C00801C23 /* ParkCarUITests */,
@@ -233,6 +236,7 @@
 			files = (
 				47B74B8A2C38841C00801C23 /* Preview Assets.xcassets in Resources */,
 				47B74B872C38841C00801C23 /* Assets.xcassets in Resources */,
+				47B74BAD2C388FBE00801C23 /* Readme.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
